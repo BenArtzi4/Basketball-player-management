@@ -2,6 +2,8 @@
 
 An online basketball meetup registration platform for players in Kibutz Eilon to join and participate in weekly basketball games.
 
+![basketball](https://github.com/user-attachments/assets/f95bda8f-b918-4b63-9bb8-33c0a9abafa4)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -9,17 +11,15 @@ An online basketball meetup registration platform for players in Kibutz Eilon to
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
-![image](https://github.com/user-attachments/assets/93d42caf-523f-4840-bdf3-435235e86fd0)
-
-
 ## Introduction
 
 The Basketball Meetup Registration is a web application that allows basketball enthusiasts in Kibutz Eilon to sign up and participate in weekly basketball games. Whether you are a seasoned player or a beginner, this platform provides an easy way to join basketball meetups, connect with fellow players, and enjoy the sport you love.
+
+**Note:** This application is intended for personal use only. It is not meant to be used by other users as it requires access to a MongoDB database that is only set up for my personal use. 
 
 ## Features
 
@@ -42,40 +42,29 @@ To get started with the Basketball Meetup Registration web application, follow t
 
 1. Clone this repository to your local machine using:
 
-```
-git clone https://github.com/BenArtzi4/Basketball-players-management.git
-```
-
-
+    ```bash
+    git clone https://github.com/your-username/basketball-meetup-registration.git
+    ```
 
 2. Navigate to the project directory:
 
-```
-cd  Basketball-players-management
-```
+    ```bash
+    cd basketball-meetup-registration
+    ```
 
 3. Install the required npm packages:
 
-```
-npm install
-```
+    ```bash
+    npm install
+    ```
 
 4. Run the application:
 
-```
-node app.js
-```
-
+    ```bash
+    node app.js
+    ```
 
 The web application will be available at `http://localhost:3000/`.
-
-## Usage
-
-1. Visit `http://localhost:3000/` in your web browser.
-2. Sign up for the meetup by filling out the registration form with your first name, last name, and phone number.
-3. Click the "Submit" button to join the meetup.
-4. The list of registered players will be displayed below the form.
-5. To restart the players' list, click the "Restart List" button and enter the admin password ("1234").
 
 ## Contributing
 
