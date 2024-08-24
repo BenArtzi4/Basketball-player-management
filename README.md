@@ -40,7 +40,7 @@ To get started with the Basketball Meetup Registration web application, follow t
 1. Clone this repository to your local machine using:
 
 ```
-git clone https://github.com/your-username/basketball-meetup-registration.git
+git clone https://github.com/BenArtzi4/Basketball-players-management.git
 ```
 
 
