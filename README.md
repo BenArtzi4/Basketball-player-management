@@ -48,9 +48,8 @@ git clone https://github.com/BenArtzi4/Basketball-players-management.git
 2. Navigate to the project directory:
 
 ```
-cd basketball-meetup-registration
+cd  Basketball-players-management
 ```
-
 
 3. Install the required npm packages:
 
